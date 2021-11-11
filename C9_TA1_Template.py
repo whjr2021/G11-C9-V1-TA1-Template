@@ -13,7 +13,7 @@
 
  
 
-    # Store the background image in a variable "bgImg_name"
+    # Store the background image name with extension in a variable "bgImg_name"
 
     # Load the background image and store it in a variable "bgImg"
 
