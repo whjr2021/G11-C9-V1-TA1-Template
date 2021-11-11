@@ -12,4 +12,18 @@
 
 
  
+
+    # Store the background image in a variable "bgImg_name"
+
+    # Load the background image and store it in a variable "bgImg"
+
+    # Scale the background image to fit the screen with (width, height) = (650, 600)
+    # and store scaled image in a variable "bgImg_scaled"
+
+    # Display scaled background image on screen at location (0, 0)
+
+    
+    # Update the contents of the display
+
+    
 # Quit the game 
